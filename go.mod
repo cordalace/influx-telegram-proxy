@@ -1,9 +1,9 @@
 module github.com/cordalace/influx-telegram-proxy
 
-go 1.17
+go 1.24
 
 require (
-	github.com/go-chi/chi/v5 v5.0.7
+	github.com/go-chi/chi/v5 v5.4.0
 	go.uber.org/zap v1.20.0
 )
 
